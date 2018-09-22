@@ -1,4 +1,4 @@
-token=NDkzMTQ4NzE5MjI3ODYzMDUw.Dogwyw.SfPOu4YjgdaOUuzjKirn_5uaKKs
+token=NDkzMTQ4NzE5MjI3ODYzMDUw.DogybA.TEwIMyQF4_9YspKvJu8-v-SKUDQ
 owner=466858375544832001 
 prefix=li
 game=liplay
